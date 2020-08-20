@@ -1,3 +1,8 @@
 # set-wifi
 
-A description of this package.
+Command line utility for setting the WIFI network on Mac OS X.
+
+## Usage
+```shell script
+set-wifi <network-SSID> <password>
+```
